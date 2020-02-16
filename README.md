@@ -1,6 +1,6 @@
 # API-project
-University project for the logical managmente of a social network with C.
-The possible operation are
+University project for the logical managmente of a social network with C.<br>
+The possible operations are
 <ul>
   <li>create a new user</li>
   <li>delete a user</li>
